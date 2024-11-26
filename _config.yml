@@ -1,6 +1,12 @@
-theme: jekyll-remote-theme
-title: Cisse Stanislas hippolythe
-logo : Snapchat-587822044.jpg
-description :  Curriculum vitae and Portfolio
-description : E-mail tcharnoncisse@gmail.com
+# Configuration de votre site Jekyll
+
+title: Cisse Stanislas Hippolythe   # Titre de votre portfolio
+logo: /Snapchat-587822044.jpg        # Assurez-vous que l'image est dans le répertoire racine ou dans /assets
+description: Curriculum vitae and Portfolio
+email: tcharnoncisse@gmail.com       # Remplacez le deuxième "description" par "email"
+
+# Thème distant Jekyll
 remote_theme: pages-themes/minimal@v0.2.0
+
+# Options pour le thème Minimal
+show_downloads: true                 # Affiche un lien pour télécharger le dépôt (optionnel)
