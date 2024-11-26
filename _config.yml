@@ -1,8 +1,6 @@
-# Configuration de votre site Jekyll
-
-title: Cisse Stanislas Hippolythe   
-logo: /Snapchat-587822044.jpg       
+title: Cisse Stanislas Hippolythe
 description: Curriculum vitae and Portfolio
-email: tcharnoncisse@gmail.com       
-remote_theme: jekill-theme-minimal
-show_downloads: true                 
+email: tcharnoncisse@gmail.com
+logo: /Snapchat-587822044.jpg  # Assurez-vous que ce fichier existe
+remote_theme: pages-themes/minimal@v0.2.0
+show_downloads: true
