@@ -4,5 +4,5 @@ title: Cisse Stanislas Hippolythe
 description: Curriculum vitae and Portfolio
 email: tcharnoncisse@gmail.com
 logo: /assets/Snapchat-587822044.jpg  
-remote_theme: jekill-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: true
