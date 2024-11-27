@@ -46,6 +46,14 @@ Cette spécialisation me permettra de suivre de manière approfondie les process
   >- À Institut de l’ingénierie de l’eau et de l’environnement (2IE),Ouagadougou BURKINA FASO
   
 ## Compétenses Supply Chain Analyst
+## Livrable de l'entreprise  Aérowold
+
+### Besoins  métiers
+### Veille métier
+### Cahier des  charges  fonctionnel du  projet portfolio
+### Gestion du  projet portfolio
+### Formation sur l'outil  (Tableau Software ou  Power BI)
+### PDF : Procédure de  création d'un  "magnifique" graphique  d'analyse data
 
 
 
