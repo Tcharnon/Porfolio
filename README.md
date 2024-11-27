@@ -46,9 +46,12 @@ Cette spécialisation me permettra de suivre de manière approfondie les process
   >- À Institut de l’ingénierie de l’eau et de l’environnement (2IE),Ouagadougou BURKINA FASO
   
 ## Compétenses Supply Chain Analyst
+
 ## Livrable de l'entreprise  Aérowold
 
 ### Besoins  métiers
+
+Aéroworld est une entreprise française d’envergure internationale opérant depuis plus de cinquante ans dans l’industrie aéronautique. Leader mondial dans ce domaine, Aéroworld est spécialisée dans la conception, le développement, la fabrication et la maintenance des avions et hélicoptères. Avec des milliers d’employés répartis dans plusieurs pays, l’entreprise collecte une quantité massive de données qui peuvent être exploitées pour répondre à des enjeux stratégiques tels que l’optimisation de la conception, la performance opérationnelle et la sécurité des vols. Afin de repondre à ce besoin , l'entreprese
 ### Veille métier
 ### Cahier des  charges  fonctionnel du  projet portfolio
 ### Gestion du  projet portfolio
