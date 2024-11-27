@@ -31,9 +31,7 @@ Cette spécialisation me permettra de suivre de manière approfondie les process
   > - À  l’Université de Cocody
   > - Abidjan, Côte d’Ivoire. 
   
-## Exepérience
-
-### Exepérience Professionnelles 
+## Exepérience Professionnelles 
 * Depuis Juillet 2022            Opérateur de messagerie
   >- Chez SCHENKER, France
 * Mars 2020-JUIN 2022   Préparateur de commande
@@ -45,7 +43,10 @@ Cette spécialisation me permettra de suivre de manière approfondie les process
 * Jan - Juin 2014    Ingénieur hydraulicien
   >- Chez CAGECT COOPERATION SUISSE ,Ouagadougou BURKINA FASO 
 * Oct 2013 – Jan 2014  Ingénieur hydraulicien 
-  >- À Institut de l’ingénierie de l’eau et de l’environnement (2IE),Ouagadougou BURKINA FASO  
-### Exepérience Formation Supply Chain Analyst
+  >- À Institut de l’ingénierie de l’eau et de l’environnement (2IE),Ouagadougou BURKINA FASO
+  
+## Compétenses Supply Chain Analyst
+
+
 
 
