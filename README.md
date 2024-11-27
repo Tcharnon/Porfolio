@@ -6,24 +6,24 @@ Cette spécialisation me permettra de suivre de manière approfondie les process
 ![picture1](/assets/Data-Analyst-Career-Outlook.jpg)
 
 ## Education
-*Juin 2020   Formation en Management d’équipe 
->  - à l’INFA
->  - Strasbourg
+* Juin 2020   Formation en Management d’équipe 
+  >  - à l’INFA
+  >  - Strasbourg en France.
 * Jan-Aout 2017    Formation intensive d’Anglais
   >  - à Wall street English
-  >  - Strasbourg
+  >  - Strasbourg en France.
 * 2014-2016     Mastère spécialisé eau potable et assainissement
   >  - à l’ENGEES
   >  - Strasbourg en France.
 * 2012-2014   Master en infrastructures et réseaux hydrauliques
   >  - à L’Institut d’ingénierie de l’eau et de l’environnement Ouagadougou
-  >  - à Ouagadougou Burkina Faso.
+  >  - Ouagadougou Burkina Faso.
 * 2011-2012   Bachelor en sciences de l’eau et de l’environnement
   > - à l’Institut d’ingénierie de l’eau et de l’environnement
   > - Ouagadougou au Burkina Faso.
 * 2010-2011   Maîtrise de sciences physiques
   > - à l’Université de Cocody
-  > -  Abidjan en Côte d’Ivoire. 
+  > - Abidjan en Côte d’Ivoire. 
   
 ## Exepérience
 
