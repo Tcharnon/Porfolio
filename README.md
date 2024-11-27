@@ -10,25 +10,25 @@ Cette spécialisation me permettra de suivre de manière approfondie les process
   >  - OpenClassrooms
 
 * 2021-2022     Mastère spécialisé en Gestion des Bassins de Captage (GEBAC)
-  >  - à l’ENGEES
+  >  - À  l’ENGEES
   >  - Strasbourg, France.
 * Juin 2020   Formation en Management d’équipe 
-  >  - à l’INFA
+  >  - À  l’INFA
   >  - Strasbourg, France.
 * Jan-Aout 2017    Formation intensive d’Anglais
-  >  - à Wall street English
+  >  - À  Wall street English
   >  - Strasbourg, France.
 * 2014-2016     Mastère spécialisé eau potable et assainissement
-  >  - à l’ENGEES
+  >  - À  l’ENGEES
   >  - Strasbourg, France.
 * 2012-2014   Master en infrastructures et réseaux hydrauliques
-  >  - à L’Institut d’ingénierie de l’eau et de l’environnement (2IE)
+  >  - À  L’Institut d’ingénierie de l’eau et de l’environnement (2IE)
   >  - Ouagadougou, Burkina Faso.
 * 2011-2012   Bachelor en sciences de l’eau et de l’environnement
-  > - à l’Institut d’ingénierie de l’eau et de l’environnement (2IE)
+  > - À  l’Institut d’ingénierie de l’eau et de l’environnement (2IE)
   > - Ouagadougou, Burkina Faso.
 * 2010-2011   Maîtrise de sciences physiques
-  > - à l’Université de Cocody
+  > - À  l’Université de Cocody
   > - Abidjan, Côte d’Ivoire. 
   
 ## Exepérience
