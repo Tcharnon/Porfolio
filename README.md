@@ -53,6 +53,7 @@ Aéroworld est une entreprise française d’envergure internationale opérant d
 Afin de répondre à ce besoin, l'entreprise est à la recherche d'un Data Analyst. Les candidats intéressés devront soumettre un portfolio mettant en avant leurs compétences ainsi que les livrables demandés par Aéroworld.
 ### Besoins  métiers
 Dans un contexte où l'innovation joue un rôle clé, Aéroworld doit gérer d'importants volumes de données issues de diverses sources (essais en vol, capteurs embarqués, données de maintenance, etc.). Ces informations doivent être consolidées, analysées et sécurisées afin d'améliorer les processus internes et d'accroître la satisfaction client. Le Chef de projet en analyse de données aura pour mission de répondre aux besoins métiers en structurant et en optimisant les projets liés à la data.
+
 pour plus de detail le lien du pdf en lien :
 [Analyse des besoins métiers](https://github.com/user-attachments/files/17948540/Analyse_des_besoins_metiers.pdf)
 
