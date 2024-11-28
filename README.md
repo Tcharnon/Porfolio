@@ -54,16 +54,35 @@ Afin de répondre à ce besoin, l'entreprise est à la recherche d'un Data Analy
 ### Besoins  métiers
 Dans un contexte où l'innovation joue un rôle clé, Aéroworld doit gérer d'importants volumes de données issues de diverses sources (essais en vol, capteurs embarqués, données de maintenance, etc.). Ces informations doivent être consolidées, analysées et sécurisées afin d'améliorer les processus internes et d'accroître la satisfaction client. Le Chef de projet en analyse de données aura pour mission de répondre aux besoins métiers en structurant et en optimisant les projets liés à la data.
 
-pour plus de detail le lien du pdf en lien :
+Pour plus de détails, consultez le document complet ici :  
 [Analyse des besoins métiers](https://github.com/user-attachments/files/17948540/Analyse_des_besoins_metiers.pdf)
 
-
 ### Veille métier
+J'ai réalisé une veille métier  pour suivre les évolutions technologiques et les meilleures pratiques En Analyse de données et mon niveau de competance et de maitrise des ces données.
+
+Pour plus de détails, consultez le document complet ici:
+[Veille métier](https://github.com/Tcharnon/Porfolio/blob/bdef37c60344c62104a97c6c458e4ab31b79509a/assets/Portefolio.pbix)
+
+
 ### Cahier des  charges  fonctionnel du  projet portfolio
+Ce cahier des charges fonctionnel détaille les spécifications et les exigences du projet portfolio. Ce document clarifie les objectifs, les contraintes, et les  garantissant une compréhension commune des lecteurs.
+
+Pour plus de détails, consultez le document complet ici :
+
 ### Gestion du  projet portfolio
-### Formation sur l'outil  (Tableau Software ou  Power BI)
-### PDF : Procédure de  création d'un  "magnifique" graphique  d'analyse data
+Pour mener à bien ce projet de portfolio, j'ai élaboré un diagramme de Gantt afin de structurer et organiser la gestion du projet.
 
+Pour plus de détails, consultez le document complet ici :
+### Formation sur l'outil  (Power BI)
 
+J'ai concu une video de formation sur l'utilisation d'un tableau de bord power BI.
+Pour plus de détails, consultez le document complet ici 
+
+Pour plus de détails, consultez le document complet ici 
+###  Procédure de  création d'un  "magnifique" graphique  d'analyse avec Power BI
+
+J'ai élaboré une procédure détaillée pour créer des graphiques d'analyse de données. Ce guide comprend les étapes de sélection des types de graphiques, d'organisation des données et d'application de bonnes pratiques de visualisation.
+
+Pour plus de détails, consultez le document complet ici :
 
 
