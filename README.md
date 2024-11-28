@@ -68,21 +68,27 @@ Pour plus de détails, consultez le document complet ici:
 Ce cahier des charges fonctionnel détaille les spécifications et les exigences du projet portfolio. Ce document clarifie les objectifs, les contraintes, et les  garantissant une compréhension commune des lecteurs.
 
 Pour plus de détails, consultez le document complet ici :
+[Cahier des  charges  fonctionnel](https://github.com/user-attachments/files/17950568/Cahier_des_charges.pdf)
 
 ### Gestion du  projet portfolio
+
 Pour mener à bien ce projet de portfolio, j'ai élaboré un diagramme de Gantt afin de structurer et organiser la gestion du projet.
 
 Pour plus de détails, consultez le document complet ici :
+[Diagramme de gantt](https://github.com/user-attachments/files/17950599/Diagramme_de_gantt.pdf)
+
+
+###  Procédure de  création d'un  "magnifique" graphique  d'analyse avec Power BI
+
+J'ai élaboré une procédure détaillée pour créer des graphiques d'analyse de données. Ce guide comprend les étapes de sélection des types de graphiques, d'organisation des données et d'application de bonnes pratiques de visualisation.
+
+Pour plus de détails, consultez le document complet ici :
+[Guide Création Graphiques Power_BI](https://github.com/user-attachments/files/17950612/Guide_Creation_Graphiques_Power_BI.pdf)
+
 ### Formation sur l'outil  (Power BI)
 
 J'ai concu une video de formation sur l'utilisation d'un tableau de bord power BI.
 Pour plus de détails, consultez le document complet ici 
 
 Pour plus de détails, consultez le document complet ici 
-###  Procédure de  création d'un  "magnifique" graphique  d'analyse avec Power BI
-
-J'ai élaboré une procédure détaillée pour créer des graphiques d'analyse de données. Ce guide comprend les étapes de sélection des types de graphiques, d'organisation des données et d'application de bonnes pratiques de visualisation.
-
-Pour plus de détails, consultez le document complet ici :
-
 
