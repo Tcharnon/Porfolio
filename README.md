@@ -48,10 +48,12 @@ Cette spécialisation me permettra de suivre de manière approfondie les process
 ## Compétenses Supply Chain Analyst
 
 ## Livrable de l'entreprise  Aérowold
+Aéroworld est une entreprise française d’envergure internationale opérant depuis plus de cinquante ans dans l’industrie aéronautique. Leader mondial dans ce domaine, Aéroworld est spécialisée dans la conception, le développement, la fabrication et la maintenance d'avions et d'hélicoptères. Avec des milliers d’employés répartis dans plusieurs pays, l’entreprise collecte une quantité massive de données exploitables pour répondre à des enjeux stratégiques tels que l’optimisation de la conception, la performance opérationnelle et la sécurité des vols.
 
+Afin de répondre à ce besoin, l'entreprise est à la recherche d'un Data Analyst. Les candidats intéressés devront soumettre un portfolio mettant en avant leurs compétences ainsi que les livrables demandés par Aéroworld.
 ### Besoins  métiers
 
-Aéroworld est une entreprise française d’envergure internationale opérant depuis plus de cinquante ans dans l’industrie aéronautique. Leader mondial dans ce domaine, Aéroworld est spécialisée dans la conception, le développement, la fabrication et la maintenance des avions et hélicoptères. Avec des milliers d’employés répartis dans plusieurs pays, l’entreprise collecte une quantité massive de données qui peuvent être exploitées pour répondre à des enjeux stratégiques tels que l’optimisation de la conception, la performance opérationnelle et la sécurité des vols. Afin de repondre à ce besoin , l'entreprese
+
 ### Veille métier
 ### Cahier des  charges  fonctionnel du  projet portfolio
 ### Gestion du  projet portfolio
