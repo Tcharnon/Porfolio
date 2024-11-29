@@ -60,9 +60,10 @@ Pour plus de détails, consultez le document complet ici :
 ### Veille métier
 J'ai réalisé une veille métier  pour suivre les évolutions technologiques et les meilleures pratiques En Analyse de données et mon niveau de competance et de maitrise des ces données.
 
-Pour plus de détails, consultez le document complet ici:
-[Veille métier](https://github.com/Tcharnon/Porfolio/blob/bdef37c60344c62104a97c6c458e4ab31b79509a/assets/Portefolio.pbix)
+ A télécharger via ce lien
+[Tableaux de bord ](https://github.com/Tcharnon/Porfolio/blob/bdef37c60344c62104a97c6c458e4ab31b79509a/assets/Portefolio.pbix)
 
+[Documentation](https://github.com/user-attachments/files/17962899/VEILLE.METIER.pdf)
 
 ### Cahier des  charges  fonctionnel du  projet portfolio
 Ce cahier des charges fonctionnel détaille les spécifications et les exigences du projet portfolio. Ce document clarifie les objectifs, les contraintes, et les  garantissant une compréhension commune des lecteurs.
@@ -88,15 +89,15 @@ Pour plus de détails, consultez le document complet ici :
 ### Formation sur l'outil  (Power BI)
 
 J'ai concu une video de formation sur l'utilisation d'un tableau de bord power BI.
-Pour plus de détails, consultez le document complet ici 
+Cette Video est sur mon github à télécharger via ce lien.
 
 [Vidéo de formation](https://github.com/Tcharnon/Porfolio/blob/360f4726737679b1153339716f57cae5f918039e/assets/video1536502917.mp4)
 
 ### Carte mentale
 
-La carte mentale contient les differents livrable demanté par le client, Les compétence technique et softs kills mise en contribution pour chaque   projets réalisés durant la formation.
+La carte mentale contient les différents livrables demandés par le client, ainsi que les compétences techniques et les soft skills mises en contribution pour chaque projet réalisé durant la formation.
 
-Elle contient egalement le lien vers les tableau de bord, video de formation.
+Elle inclut également des liens vers les tableaux de bord et les vidéos de formation.
 
 [Lien carte mentale](https://github.com/Tcharnon/Porfolio/blob/360f4726737679b1153339716f57cae5f918039e/assets/video1536502917.mp4)
 
