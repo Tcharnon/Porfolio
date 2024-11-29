@@ -90,5 +90,4 @@ Pour plus de détails, consultez le document complet ici :
 J'ai concu une video de formation sur l'utilisation d'un tableau de bord power BI.
 Pour plus de détails, consultez le document complet ici 
 
-Pour plus de détails, consultez le document complet ici 
-
+[Analyse des besoins métiers].(https://github.com/Tcharnon/Porfolio/blob/360f4726737679b1153339716f57cae5f918039e/assets/video1536502917.mp4)
