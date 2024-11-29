@@ -98,6 +98,6 @@ La carte mentale contient les differents livrable demanté par le client, Les co
 
 Elle contient egalement le lien vers les tableau de bord, video de formation.
 
-[Lien carte mentale]([Vidéo de formation](https://github.com/Tcharnon/Porfolio/blob/360f4726737679b1153339716f57cae5f918039e/assets/video1536502917.mp4)
+[Lien carte mentale](https://github.com/Tcharnon/Porfolio/blob/360f4726737679b1153339716f57cae5f918039e/assets/video1536502917.mp4)
 
  
