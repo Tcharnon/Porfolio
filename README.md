@@ -60,7 +60,8 @@ Pour plus de détails, consultez le document complet ici :
 ### Veille métier
 J'ai réalisé une veille métier  pour suivre les évolutions technologiques et les meilleures pratiques En Analyse de données et mon niveau de competance et de maitrise des ces données.
 
- A télécharger via ce lien
+ A télécharger via ces liens:
+ 
 [Tableaux de bord ](https://github.com/Tcharnon/Porfolio/blob/bdef37c60344c62104a97c6c458e4ab31b79509a/assets/Portefolio.pbix)
 
 [Documentation](https://github.com/user-attachments/files/17962899/VEILLE.METIER.pdf)
